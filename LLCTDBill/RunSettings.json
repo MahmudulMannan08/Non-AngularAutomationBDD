@@ -1,0 +1,79 @@
+{
+  "Settings": {
+
+    "Environment": "PREPROD",
+
+    "LawyerDetails": {
+
+      "RQA3": {
+
+        "LawyerPortal": "http://iisprillcdqa11.exfirstcdn.com/Profile/Login.aspx",
+        "LawyerUsername": "adeveloper3",
+        "LawyerPassword": "Itmagnet-03",
+        "LawyerIDNo": "100030845"
+      },
+
+      "PREPROD": {
+
+        "LawyerPortal": "https://llcsg.firstcdn.com/Profile/Login.aspx",
+        "LawyerUsername": "adeveloper3",
+        "LawyerPassword": "Itmagnet-03",
+        "LawyerIDNo": "100004142"
+      },
+
+      "PROD": {
+
+        "LawyerPortal": "https://llc.firstcdn.com/Profile/Login.aspx",
+        "LawyerUsername": "mmà’na,ï.n_)",
+        "LawyerPassword": "Itmagnet-03",
+        "LawyerIDNo": "100038431"
+      }
+    },
+
+    "LenderDetails": {
+
+      "RQA3": {
+
+        "LenderIdNo": "-44",
+        "LenderUsername": "TTD User"
+      },
+
+      "PREPROD": {
+
+        "LenderIdNo": "-44",
+        "LenderUsername": "TTD User"
+      },
+
+      "PROD": {
+
+        "LenderIdNo": "-44",
+        "LenderUsername": "TTD User"
+      }
+    },
+
+    "TD": {
+
+      "RQA3": {
+
+        "TDEndPoint": "http://iisprillciqa11.prefirstcdn.com/InboundLenderService/InboundLenderService.svc"
+      },
+
+      "PREPROD": {
+
+        "TDEndPoint": "https://integrations.firstcdn.com/InboundLenderService/InboundLenderService.svc"
+      },
+
+      "PROD": {
+
+        "TDEndPoint": "https://iisprimgwpr02.fctprod.com/InboundLenderService/InboundLenderService.svc"
+      }
+    },
+
+    "OutlookDetails": {
+
+      "OutlookURL": "https://webmail.fct.ca/owa/auth/logon.aspx/",
+      "OutlookUsername": "LLCTestAutomation03",
+      "OutlookPassword": "FCT1235!"
+    }
+  } 
+}

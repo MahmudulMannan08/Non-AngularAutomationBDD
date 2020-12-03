@@ -1,0 +1,195 @@
+﻿2020-04-15T16:20:23.2054863-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-15T16:20:23.2054863-04:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2020-04-15T16:20:23.2054863-04:00;VSTestExecutionThread;Info;TestAdapter Location: C:\QA_Script\TestAutomationScripts\LLCTDBill134_CSharp\LLCTDBill\packages\SpecRun.Runner.3.0.352\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-15T16:20:23.2604881-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\QA_Script\TestAutomationScripts\LLCTDBill134_CSharp\LLCTDBill\LLCTDBill\bin\Debug\LLCTDBill.dll
+2020-04-15T16:20:23.2604881-04:00;VSTestExecutionThread;Info;Output folder configured to "C:\QA_Script\TestAutomationScripts\LLCTDBill134_CSharp\LLCTDBill\TestResults" (default)
+2020-04-15T16:20:23.2604881-04:00;VSTestExecutionThread;Info;Profile: 
+2020-04-15T16:20:23.2874865-04:00;VSTestExecutionThread;Info;Log file path: C:\QA_Script\TestAutomationScripts\LLCTDBill134_CSharp\LLCTDBill\TestResults\Unnamed project__2020-04-15T162023.log
+2020-04-15T16:20:23.2894880-04:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2020-04-15T16:20:23.3024998-04:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-04-15T16:20:23.3074933-04:00;Thread#13;Info;Checking license
+2020-04-15T16:20:23.3084949-04:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2020-04-15T16:20:23.3094857-04:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2020-04-15T16:20:23.3274913-04:00;Thread#13;Info;Evaluation mode: test execution starts in 8 seconds... (this delay is removed in the registered version)
+2020-04-15T16:20:31.3286504-04:00;Thread#13;Info;Evaluation delay finished.
+2020-04-15T16:20:31.3336024-04:00;Thread#13;Info;License check completed
+2020-04-15T16:20:31.3346066-04:00;Thread#13;Info;starting test run
+2020-04-15T16:20:31.3826120-04:00;Thread#13;Info;Discovering target: Default
+2020-04-15T16:20:31.3836078-04:00;Thread#13;Info;Discovering tests from assembly: C:\QA_Script\TestAutomationScripts\LLCTDBill134_CSharp\LLCTDBill\LLCTDBill\bin\Debug\LLCTDBill.dll
+2020-04-15T16:20:31.9691318-04:00:Appdomain Disposed
+2020-04-15T16:20:31.9691318-04:00;Thread#13;Info;Discovered tests from assembly: C:\QA_Script\TestAutomationScripts\LLCTDBill134_CSharp\LLCTDBill\LLCTDBill\bin\Debug\LLCTDBill.dll
+2020-04-15T16:20:31.9701341-04:00:Test Suite Dump
+2020-04-15T16:20:31.9741261-04:00:#0: Unnamed project/ - 
+2020-04-15T16:20:31.9746922-04:00:#1: Default - 
+2020-04-15T16:20:31.9746922-04:00:#2: LLCTDBill - 
+2020-04-15T16:20:31.9746922-04:00:#5: Lawyer Portal - 
+2020-04-15T16:20:32.0196769-04:00:#6: 1. Lender Sent Deal With Credit Agreement Fields (QC) - TestAssembly:LLCTDBill/Feature:Lawyer+Portal/Scenario:1.+Lender+Sent+Deal+With+Credit+Agreement+Fields+(QC)
+2020-04-15T16:20:32.0196769-04:00:End: Test Suite Dump
+2020-04-15T16:20:32.0532326-04:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-15T16:20:32.0552318-04:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2020-04-15T16:20:32.0552318-04:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2020-04-15T16:20:32.0612456-04:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-15T16:20:32.0612456-04:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2020-04-15T16:20:32.0612456-04:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2020-04-15T16:20:32.0612456-04:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2020-04-15T16:20:32.0622400-04:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2020-04-15T16:20:32.0642461-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-15T16:20:32.0692329-04:00:Thread #0: creating new test thread executor for LLCTDBill, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-04-15T16:20:32.0712420-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-15T16:20:32.0722349-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-15T16:20:32.0722349-04:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-04-15T16:20:32.8447086-04:00:Thread#0: Test #6/0 is started on thread #0
+2020-04-15T16:20:33.2718824-04:00:Thread#0:T:-> Loading plugin C:\QA_Script\TestAutomationScripts\LLCTDBill134_CSharp\LLCTDBill\LLCTDBill\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-04-15T16:20:33.3118798-04:00:Thread#0:T:-> Using default config
+2020-04-15T16:20:33.9049177-04:00:Thread#0:B:Given Send TD deal data with credit agreement
+2020-04-15T16:20:37.5034738-04:00:Thread#0:T:Fct Urn: 
+2020-04-15T16:20:37.5034738-04:00:Thread#0:T:Lender Reference No: 
+2020-04-15T16:20:37.5044730-04:00:Thread#0:T:Mortgage Number: 
+2020-04-15T16:20:37.5084724-04:00:Thread#0:T:done: AcceptDealSteps.GivenSendTDDealDataWithCreditAgreement() (3.6s)
+2020-04-15T16:20:37.5094725-04:00:Thread#0:B:And Login to lawyer portal
+2020-04-15T16:21:07.7044803-04:00:Thread#0:T:done: AcceptDealSteps.GivenLoginToLawyerPortal() (30.2s)
+2020-04-15T16:21:07.7054825-04:00:Thread#0:B:Then Search pending acceptance deal
+2020-04-15T16:21:36.9247989-04:00:Thread#0:T:error: Index was out of range. Must be non-negative and less than the size of the collection.
+2020-04-15T16:21:36.9247989-04:00:Thread#0:T:Parameter name: index
+2020-04-15T16:21:36.9258003-04:00:Thread#0:B:And Accept deal on lawyer portal
+2020-04-15T16:21:36.9258003-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:21:36.9258003-04:00:Thread#0:B:Then I verify credit agreement fields
+2020-04-15T16:21:36.9258003-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:21:36.9258003-04:00:Thread#0:B:And Update credit agreement field data and save
+2020-04-15T16:21:36.9258003-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:21:36.9267996-04:00:Thread#0:B:And I verify deal history entry for lawyer amendment
+2020-04-15T16:21:36.9267996-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:21:36.9267996-04:00:Thread#0:B:Then Update TD deal data with credit agreement
+2020-04-15T16:21:36.9267996-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:21:36.9267996-04:00:Thread#0:B:Then Verify user is redirected to homepage upon any action
+2020-04-15T16:21:36.9267996-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:21:36.9267996-04:00:Thread#0:B:Then Search deal on hompage
+2020-04-15T16:21:36.9267996-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:21:36.9267996-04:00:Thread#0:B:And Verify amendment icon for deal with amendments
+2020-04-15T16:21:36.9277985-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:21:36.9277985-04:00:Thread#0:B:And Verify amendment screen data for lender fields
+2020-04-15T16:21:36.9277985-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:21:36.9277985-04:00:Thread#0:B:And Acknowledge lender amendments
+2020-04-15T16:21:36.9277985-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:21:36.9277985-04:00:Thread#0:B:And Verify lender update for lender fields
+2020-04-15T16:21:36.9277985-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:21:36.9277985-04:00:Thread#0:B:Then I verify deal history entry for lender amendment
+2020-04-15T16:21:36.9287989-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:21:36.9938006-04:00:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2020-04-15T16:21:36.9947993-04:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-15T16:21:36.9947993-04:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2020-04-15T16:21:36.9947993-04:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2020-04-15T16:21:36.9947993-04:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-15T16:21:36.9947993-04:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2020-04-15T16:21:36.9947993-04:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2020-04-15T16:21:36.9947993-04:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2020-04-15T16:21:36.9947993-04:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2020-04-15T16:21:36.9947993-04:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2020-04-15T16:21:42.5710913-04:00:Thread#0: Test #6/0 is finished on thread #0 as Failed within 69.7253844 seconds
+2020-04-15T16:21:42.5730547-04:00:Thread#0: Test #6/1 is started on thread #0
+2020-04-15T16:21:42.6105882-04:00:Thread#0:B:Given Send TD deal data with credit agreement
+2020-04-15T16:21:45.6426422-04:00:Thread#0:T:Fct Urn: 
+2020-04-15T16:21:45.6436367-04:00:Thread#0:T:Lender Reference No: 
+2020-04-15T16:21:45.6476395-04:00:Thread#0:T:Mortgage Number: 
+2020-04-15T16:21:45.6486380-04:00:Thread#0:T:done: AcceptDealSteps.GivenSendTDDealDataWithCreditAgreement() (3.0s)
+2020-04-15T16:21:45.6496405-04:00:Thread#0:B:And Login to lawyer portal
+2020-04-15T16:21:52.0360239-04:00:Thread#0:T:done: AcceptDealSteps.GivenLoginToLawyerPortal() (6.4s)
+2020-04-15T16:21:52.0360239-04:00:Thread#0:B:Then Search pending acceptance deal
+2020-04-15T16:22:20.6294197-04:00:Thread#0:T:error: Index was out of range. Must be non-negative and less than the size of the collection.
+2020-04-15T16:22:20.6294197-04:00:Thread#0:T:Parameter name: index
+2020-04-15T16:22:20.6294197-04:00:Thread#0:B:And Accept deal on lawyer portal
+2020-04-15T16:22:20.6294197-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:22:20.6294197-04:00:Thread#0:B:Then I verify credit agreement fields
+2020-04-15T16:22:20.6294197-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:22:20.6304193-04:00:Thread#0:B:And Update credit agreement field data and save
+2020-04-15T16:22:20.6304193-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:22:20.6304193-04:00:Thread#0:B:And I verify deal history entry for lawyer amendment
+2020-04-15T16:22:20.6304193-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:22:20.6304193-04:00:Thread#0:B:Then Update TD deal data with credit agreement
+2020-04-15T16:22:20.6314202-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:22:20.6314202-04:00:Thread#0:B:Then Verify user is redirected to homepage upon any action
+2020-04-15T16:22:20.6314202-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:22:20.6314202-04:00:Thread#0:B:Then Search deal on hompage
+2020-04-15T16:22:20.6314202-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:22:20.6314202-04:00:Thread#0:B:And Verify amendment icon for deal with amendments
+2020-04-15T16:22:20.6314202-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:22:20.6324177-04:00:Thread#0:B:And Verify amendment screen data for lender fields
+2020-04-15T16:22:20.6324177-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:22:20.6324177-04:00:Thread#0:B:And Acknowledge lender amendments
+2020-04-15T16:22:20.6324177-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:22:20.6324177-04:00:Thread#0:B:And Verify lender update for lender fields
+2020-04-15T16:22:20.6324177-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:22:20.6324177-04:00:Thread#0:B:Then I verify deal history entry for lender amendment
+2020-04-15T16:22:20.6324177-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:22:20.6344264-04:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-15T16:22:20.6344264-04:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2020-04-15T16:22:20.6344264-04:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2020-04-15T16:22:20.6344264-04:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-15T16:22:20.6344264-04:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2020-04-15T16:22:20.6344264-04:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2020-04-15T16:22:20.6344264-04:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2020-04-15T16:22:20.6344264-04:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2020-04-15T16:22:20.6344264-04:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2020-04-15T16:22:25.9049946-04:00:Thread#0: Test #6/1 is finished on thread #0 as Failed within 43.3319399 seconds
+2020-04-15T16:22:25.9049946-04:00:Thread#0: Test #6/2 is started on thread #0
+2020-04-15T16:22:25.9429988-04:00:Thread#0:B:Given Send TD deal data with credit agreement
+2020-04-15T16:22:28.8334208-04:00:Thread#0:T:Fct Urn: 
+2020-04-15T16:22:28.8334208-04:00:Thread#0:T:Lender Reference No: 
+2020-04-15T16:22:28.8344295-04:00:Thread#0:T:Mortgage Number: 
+2020-04-15T16:22:28.8344295-04:00:Thread#0:T:done: AcceptDealSteps.GivenSendTDDealDataWithCreditAgreement() (2.9s)
+2020-04-15T16:22:28.8354209-04:00:Thread#0:B:And Login to lawyer portal
+2020-04-15T16:22:35.8814615-04:00:Thread#0:T:done: AcceptDealSteps.GivenLoginToLawyerPortal() (7.0s)
+2020-04-15T16:22:35.8814615-04:00:Thread#0:B:Then Search pending acceptance deal
+2020-04-15T16:23:05.0941003-04:00:Thread#0:T:error: Index was out of range. Must be non-negative and less than the size of the collection.
+2020-04-15T16:23:05.0941003-04:00:Thread#0:T:Parameter name: index
+2020-04-15T16:23:05.0950916-04:00:Thread#0:B:And Accept deal on lawyer portal
+2020-04-15T16:23:05.0950916-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:23:05.0950916-04:00:Thread#0:B:Then I verify credit agreement fields
+2020-04-15T16:23:05.0950916-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:23:05.0960909-04:00:Thread#0:B:And Update credit agreement field data and save
+2020-04-15T16:23:05.0960909-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:23:05.0960909-04:00:Thread#0:B:And I verify deal history entry for lawyer amendment
+2020-04-15T16:23:05.0960909-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:23:05.0960909-04:00:Thread#0:B:Then Update TD deal data with credit agreement
+2020-04-15T16:23:05.0960909-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:23:05.0960909-04:00:Thread#0:B:Then Verify user is redirected to homepage upon any action
+2020-04-15T16:23:05.0970902-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:23:05.0970902-04:00:Thread#0:B:Then Search deal on hompage
+2020-04-15T16:23:05.0970902-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:23:05.0970902-04:00:Thread#0:B:And Verify amendment icon for deal with amendments
+2020-04-15T16:23:05.0970902-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:23:05.0970902-04:00:Thread#0:B:And Verify amendment screen data for lender fields
+2020-04-15T16:23:05.0970902-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:23:05.0980906-04:00:Thread#0:B:And Acknowledge lender amendments
+2020-04-15T16:23:05.0980906-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:23:05.0980906-04:00:Thread#0:B:And Verify lender update for lender fields
+2020-04-15T16:23:05.0980906-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:23:05.0980906-04:00:Thread#0:B:Then I verify deal history entry for lender amendment
+2020-04-15T16:23:05.0980906-04:00:Thread#0:T:skipped because of previous errors
+2020-04-15T16:23:05.0990898-04:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-15T16:23:05.0990898-04:00:Thread#:Scheduler: at the end of normal test queue
+2020-04-15T16:23:05.0990898-04:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-04-15T16:23:05.0990898-04:00:Thread#0:Scheduler: No more tests for thread
+2020-04-15T16:23:10.3432784-04:00:Thread#0: Test #6/2 is finished on thread #0 as Failed within 44.4382838 seconds
+2020-04-15T16:23:10.3852792-04:00:Appdomain Disposed
+2020-04-15T16:23:10.3872782-04:00:Trying to cancel thread
+2020-04-15T16:23:10.3872782-04:00:Thread cancelled
+2020-04-15T16:23:10.3972787-04:00:Thread#-1:Scheduler: get next test for thread -1
+2020-04-15T16:23:10.3982840-04:00:Thread#:Scheduler: at the end of normal test queue
+2020-04-15T16:23:10.3982840-04:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-04-15T16:23:10.4022777-04:00;Thread#13;Info;test run finished
+2020-04-15T16:23:10.4032799-04:00;Thread#13;Info;publishing test results
+2020-04-15T16:23:10.4942840-04:00;Thread#13;Info;test results published
+2020-04-15T16:23:10.4942840-04:00;Thread#13;Info;generating reports
+2020-04-15T16:23:10.6532805-04:00;Thread#13;Info;Starting external report generation process
+2020-04-15T16:23:18.4539328-04:00;Thread#13;Info;Successfully generated reports.
+2020-04-15T16:23:18.4629341-04:00;Thread#13;Info;Successfully generated reports
+2020-04-15T16:23:18.4779311-04:00:Total: 1 (test executions: 3)
+2020-04-15T16:23:18.4819311-04:00:Succeeded: 0
+2020-04-15T16:23:18.4829330-04:00:Ignored: 0
+2020-04-15T16:23:18.4849334-04:00:Pending: 0
+2020-04-15T16:23:18.4849334-04:00:Skipped: 0
+2020-04-15T16:23:18.4859310-04:00:Failed: 1
+2020-04-15T16:23:18.5079343-04:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-04-15T16:23:18.5079343-04:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\QA_Script\TestAutomationScripts\LLCTDBill134_CSharp\LLCTDBill\TestResults\Unnamed project__2020-04-15T162023.html'
+========== End of log file ==========

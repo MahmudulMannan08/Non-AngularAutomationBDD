@@ -1,0 +1,12 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+   <s:Body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <LenderResponse xmlns="https://schemas.firstcdn.com/LLC/LenderIntegration/ExternalInterface/20110701">
+         <TransactionId xmlns="">{07107d29-8fde-15f3-126f-244AD9122051}</TransactionId>
+         <RequestType xmlns="">UPDATE</RequestType>
+         <TimeStamp xmlns="">2019-07-10T12:20:51.9037642-04:00</TimeStamp>
+         <FCTURN xmlns="">19191088654</FCTURN>
+         <LenderReferenceNumber xmlns="">LLCTDBill#122027#ON</LenderReferenceNumber>
+         <LenderDealAlternateID xmlns="">482096834</LenderDealAlternateID>
+      </LenderResponse>
+   </s:Body>
+</s:Envelope>

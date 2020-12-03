@@ -1,0 +1,159 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="https://schemas.firstcdn.com/LLC/LenderIntegration/ExternalInterface/20110701">
+   <soapenv:Header/>
+   <soapenv:Body>
+     <ns:LenderRequest>
+         <MessageID>${#Project#MessageID}</MessageID>
+         <TransactionType>UPDATE</TransactionType>
+         <LenderReferenceNumber>${#Project#LenderReferenceNumber}</LenderReferenceNumber>
+         <LenderDealAlternateID>482096834</LenderDealAlternateID>
+         <DistrictName>MANITOBA</DistrictName>
+         <SecurityType>RES</SecurityType>
+         <BasicTransactionData>
+         	  <FCTURN>${#Project#FCTURN}</FCTURN>
+            <LenderId>${#Project#LenderId}</LenderId>
+            <LawyerId>${#Project#LawyerId}</LawyerId>
+         </BasicTransactionData>
+         <MortgageCentre>
+            <Name>WESTERN BANKING SERVICES</Name>
+            <Phone>1-866-330-0594</Phone>
+            <Fax>1-866-400-0948</Fax>
+            <Address>
+               <StreetNumber>500</StreetNumber>
+               <StreetAddress1>EDMONTON CITY CENTRE E</StreetAddress1>
+               <Country>CANADA</Country>
+               <City>EDMONTON</City>
+               <Province>AB</Province>
+               <PostalCode>T5J5E8</PostalCode>
+            </Address>
+            <TransitNumber>7562</TransitNumber>
+         </MortgageCentre>
+         <ServiceAddress>MORTGAGE CENTRE</ServiceAddress>
+         <MailingAddress>MORTGAGE CENTRE</MailingAddress>
+         <Mortgage>
+            <Mortgagee>004</Mortgagee>
+            <MortgageNumber>${#Project#MortgageNumber}</MortgageNumber>
+            <MortgageProduct>MORTGAGE</MortgageProduct>
+            <OwningBranch>
+               <Name>The Toronto-Dominion Bank</Name>
+               <Phone>1-866-330-0594</Phone>
+               <Address>
+                  <StreetNumber>500</StreetNumber>
+                  <StreetAddress1>EDMONTON CITY CENTRE E</StreetAddress1>
+                  <Country>CANADA</Country>
+                  <City>EDMONTON</City>
+                  <Province>AB</Province>
+                  <PostalCode>T5J5E8</PostalCode>
+               </Address>
+               <TransitNumber>6546</TransitNumber>
+            </OwningBranch>
+            <ClosingDate>${#Project#ClosingDate}</ClosingDate>
+            <MortgageInsurer>NA</MortgageInsurer>
+            <MortgageTermMonth>0</MortgageTermMonth>
+            <RegistrationAmount>417500.00</RegistrationAmount>
+            <RegisteredInterestRateInstruction>
+               <TextValue>
+                  <Text>P + 10.000</Text>
+                  <Language>ENGLISH</Language>
+               </TextValue>
+            </RegisteredInterestRateInstruction>
+            <RegistrationPaymentFrequency>MONTHLY</RegistrationPaymentFrequency>
+            <MonthlyPayment>
+               <PaymentAmount>0.00</PaymentAmount>
+               <FirstPaymentDateText>
+                  <TextValue>
+                    <Text>25th of Aug 2018</Text>
+                     <Language>ENGLISH</Language>
+                  </TextValue>
+               </FirstPaymentDateText>
+            </MonthlyPayment>
+            <TotalLoanAmount>${#Project#TotalLoanAmount}</TotalLoanAmount>
+            <InterestRateType>
+               <Fixed>
+                  <InterestRate>0.000</InterestRate>
+               </Fixed>
+            </InterestRateType>
+            <MaturityDateText>
+              <TextValue>
+                 <Text>Testing Maturity Date Field Text Values</Text>
+                  <Language>ENGLISH</Language>
+               </TextValue>
+            </MaturityDateText>
+            <InterestAdjustmentDateText>
+              <TextValue>
+                 <Text>XXXX XX XX</Text>
+                  <Language>ENGLISH</Language>
+               </TextValue>
+            </InterestAdjustmentDateText>
+            <AmortizationMonths>0</AmortizationMonths>
+            <IsConstructionMortgage>false</IsConstructionMortgage>
+            <IsAssignmentOfRents>false</IsAssignmentOfRents>
+            <HighRatioIndicator>LOW</HighRatioIndicator>
+         </Mortgage>
+         <Funding>
+            <FundingInfo>
+               <PaymentMethod>SET BY LAWYER</PaymentMethod>
+            </FundingInfo>
+            <IsRFF>true</IsRFF>
+         </Funding>
+         <MortgageLoanFees>
+            <InsurancePremium>0.00</InsurancePremium>
+            <TaxOnInsurancePremium>0.00</TaxOnInsurancePremium>
+            <AppraisalFee>99.00</AppraisalFee>
+            <NetMortgageAdvance>257401.00</NetMortgageAdvance>
+         </MortgageLoanFees>
+         <Mortgagors>
+            <Mortgagor>
+               <Person>
+                  <FirstName>WENGUANG</FirstName>
+                  <LastName>CAO</LastName>
+                  <Phone>(204) 998-9333</Phone>
+               </Person>
+               <Id>762096834</Id>
+            </Mortgagor>
+         </Mortgagors>
+         <MortgagorPreferredLanguage>ENGLISH</MortgagorPreferredLanguage>
+         <Properties>
+            <Property>
+               <Id>102096834</Id>
+               <LegalDescription>SOLICITOR TO CONFIRM</LegalDescription>
+               <PropertyAddress>
+                  <StreetAddress1>626 LANARK STREET</StreetAddress1>
+                  <Country>CANADA</Country>
+                  <City>Toronto</City>
+                  <Province>ON</Province>
+                  <PostalCode>R3N1M2</PostalCode>
+               </PropertyAddress>
+               <MortgagePriority>FIRST</MortgagePriority>
+               <EstateType>FEE SIMPLE</EstateType>
+            </Property>
+         </Properties>
+         <Documents>
+            <IsOtherAllowed>true</IsOtherAllowed>
+            <Document>
+               <Type>530116</Type>
+            </Document>
+         </Documents>
+         <PurchasePrice>125000</PurchasePrice>
+         <Encumbrances>Stores any information</Encumbrances>
+         <Remarks>THIS MORTGAGE INTEREST RATE IS 3.24%. SOLICITOR TO CONFIRM LEGAL DESCRIPTION SOL to confirm legal description Do not advance approved credit for MTG/220701</Remarks>
+         <SolicitorInstructions>
+            <POAs>
+               <POA>
+                  <POASignedDate>2011-11-20</POASignedDate>
+                  <DonorName>Testing Browser1</DonorName>
+               </POA>
+               <POA>
+                  <POASignedDate>2011-11-20</POASignedDate>
+                  <DonorName>Testing Browser2</DonorName>
+               </POA>
+            </POAs>
+         </SolicitorInstructions>
+         <!--<ProductReslPlIndicator>R</ProductReslPlIndicator>-->
+	    <!--<CreditAgreementDocument>
+		    <CreditAgreementFormNumber>592334</CreditAgreementFormNumber>
+		    <CreditAgreementFormName>TD Canada Trust TD Home Equity FlexLine Agreement</CreditAgreementFormName>
+		    <CreditAgreementDate>2019-12-04</CreditAgreementDate>
+	    </CreditAgreementDocument>-->
+      </ns:LenderRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

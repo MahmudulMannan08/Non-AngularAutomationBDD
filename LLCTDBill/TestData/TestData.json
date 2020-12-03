@@ -1,0 +1,42 @@
+{
+  "Data": {
+
+    "Language": "EN",
+
+    "DealDetails": {
+
+      "EN": {
+
+        "lblCreditAgrInfo": "Credit Agreement Information",
+        "lblLoanAmount": "Loan Amount :",
+        "lblCreditAgrName": "Credit Agreement Name :",
+        "lblCreditAgrDate": "Credit Agreement Date :"
+      },
+
+      "FR": {
+
+        "lblCreditAgrInfo": "Informations sur la Convention de crédit",
+        "lblLoanAmount": "Montant initial/limite de crédit :",
+        "lblCreditAgrName": "Nom de la Convention de crédit :",
+        "lblCreditAgrDate": "Date de la Convention de crédit :"
+      }
+    },
+
+    "Messages": {
+
+      "EN": {
+
+        "MsgSaveSuccess": "Your changes have been saved successfully."
+      }
+    },
+
+    "DealHistory": {
+
+      "EN": {
+
+        "ActivityLenderAmendment": "An amendment has been sent by the Lender",
+        "ActivityClosingDateAmendment": "Lawyer/Notary has accepted the changes to the Closing Date"
+      } 
+    } 
+  }
+}

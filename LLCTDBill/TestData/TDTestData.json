@@ -1,0 +1,31 @@
+{
+  "Data": {
+
+    "Language": "EN",
+
+    "Service": {
+
+      "EN": {
+
+        "DocumentType": "530170",
+        "DocumentType_ON": "530116",
+        "TotalLoanAmount": "557500.00",
+        "CreditAgreementFormName": "Home Equity FlexLine Agreement",
+        "CreditAgreementFormNumberUpdate": "592335",
+        "CreditAgreementFormNameUpdate": "Lender Data Update",
+        "CreditAgreementDateUpdate": "2020-12-06",
+        "TotalLoanAmountUpdate": "557501.00",
+        "ClosingDateUpdate": "2022-07-18"
+      }
+    },
+
+    "DealDetails": {
+
+      "EN": {
+
+        "txtCreditAgrName": "Lawyer Data",
+        "UpdateCreditAgrDate":  "12/15/2022" 
+      } 
+    } 
+  } 
+}
