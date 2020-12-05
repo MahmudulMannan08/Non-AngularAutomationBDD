@@ -24,8 +24,8 @@
       "PROD": {
 
         "LawyerPortal": "https://llc.firstcdn.com/Profile/Login.aspx",
-        "LawyerUsername": "mmà’na,ï.n_)",
-        "LawyerPassword": "Itmagnet-03",
+        "LawyerUsername": "",
+        "LawyerPassword": "",
         "LawyerIDNo": "100038431"
       }
     },
@@ -65,7 +65,7 @@
 
       "PROD": {
 
-        "TDEndPoint": "https://iisprimgwpr02.fctprod.com/InboundLenderService/InboundLenderService.svc"
+        "TDEndPoint": ""
       }
     },
 
