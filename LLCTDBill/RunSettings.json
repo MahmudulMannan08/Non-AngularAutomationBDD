@@ -9,7 +9,7 @@
 
         "LawyerPortal": "http://iisprillcdqa11.exfirstcdn.com/Profile/Login.aspx",
         "LawyerUsername": "adeveloper3",
-        "LawyerPassword": "Itmagnet-03",
+        "LawyerPassword": "",
         "LawyerIDNo": "100030845"
       },
 
@@ -17,7 +17,7 @@
 
         "LawyerPortal": "https://llcsg.firstcdn.com/Profile/Login.aspx",
         "LawyerUsername": "adeveloper3",
-        "LawyerPassword": "Itmagnet-03",
+        "LawyerPassword": "",
         "LawyerIDNo": "100004142"
       },
 
@@ -73,7 +73,7 @@
 
       "OutlookURL": "https://webmail.fct.ca/owa/auth/logon.aspx/",
       "OutlookUsername": "LLCTestAutomation03",
-      "OutlookPassword": "FCT1235!"
+      "OutlookPassword": ""
     }
   } 
 }
